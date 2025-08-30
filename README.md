@@ -24,8 +24,11 @@ The form collects basic **contact details** (Name and Email) and validates them 
 ## 📂 Project Structure
 
 📦 form-validation
+
 ┣ 📜 index.html # Form structure
+
 ┣ 📜 form_validation.js # Validation logic
+
 ┗ 📜 README.md # Documentation
 
 
